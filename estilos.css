@@ -23,8 +23,8 @@ footer {
 	font-family: sans-serif,courier, arial, verdana;
 	font-size: .5em;
 }
-#fg {
-	color: rgb(18, 190, 147)
+.color{
+	color: rgb(7, 76, 179)
 }		
 .centered {
 	text-align: center;
