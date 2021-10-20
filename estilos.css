@@ -9,11 +9,6 @@ h2 {
 	font-family: Georgia, Times, serif;
 	font-size: 1.5em;
 }
-h3 {
-	color: rgb(14, 65, 158);
-	font-family: Georgia, Times, serif;
-	font-size: 1.25em;
-}
 body {
     background-image: url("https://i.pinimg.com/originals/12/0f/35/120f35959ff5cfbb1c2892b16f8fd8aa.jpg");
     background-size: 25rem;
@@ -25,14 +20,8 @@ body {
     font-weight: 400; 
     background:#dfdfb1c5 }
 footer {
-	font-family: courier, arial, verdana, sans-serif;
+	font-family: sans-serif,courier, arial, verdana;
 	font-size: .5em;
-}
-#my-paragraph {
-	color: rgba(20,20,180,0.5);
-}
-.my-text {
-	font-size: 1.0em;
 }
 #fg {
 	color: rgb(18, 190, 147)
