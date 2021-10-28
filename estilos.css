@@ -7,7 +7,11 @@ h1 {
 h2 {
 	color: rgb(122, 21, 38);
 	font-family: Georgia, Times, serif;
-	font-size: 1.5em;
+	font-size: 1.8em;
+}
+p,li{
+	font-family: Georgia, Times, serif;
+    font-size: 1.5em;
 }
 body {
     background-image: url("https://i.pinimg.com/originals/12/0f/35/120f35959ff5cfbb1c2892b16f8fd8aa.jpg");
@@ -31,4 +35,15 @@ footer {
 }
 .justified {
 	text-align: justify;
+}
+a:link, a:visited{
+	color:rgb(0, 26, 255);
+	font-weight:bold;
+	text-decoration:none;
+	font-size: 1em;
+}
+a:hover{
+color:rgb(50, 209, 72);
+font-weight:bold;
+text-decoration:underline;
 }
